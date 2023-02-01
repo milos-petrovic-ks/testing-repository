@@ -1,5 +1,3 @@
 new note
 new note again
-jos jedan red
-  ovo sad pripad novoj grani
-  i evo prve promene na nvoj grani
+
