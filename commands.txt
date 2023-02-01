@@ -1,1 +1,2 @@
 git remote set-url origin https://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@github.com/milos-petrovic-ks/testing-repository.git
+git push origin main-branch
